@@ -1,0 +1,23 @@
+{
+  "name": "reimagined-waffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinpagtakhan/reimagined-waffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinpagtakhan/reimagined-waffle/issues"
+  },
+  "homepage": "https://github.com/kevinpagtakhan/reimagined-waffle#readme",
+  "devDependencies": {
+    "semantic-release": "17.2.3"
+  }
+}
