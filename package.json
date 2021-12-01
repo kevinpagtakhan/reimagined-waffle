@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kevinpagtakhan/reimagined-waffle#readme",
   "devDependencies": {
+    "@semantic-release/github": "^7.1.1",
     "semantic-release": "17.2.3"
   }
 }
